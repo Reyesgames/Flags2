@@ -1,0 +1,32 @@
+﻿{
+	"version": 1699524444,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/title-sheet0.png",
+		"images/spritefont.png",
+		"images/digismilespace-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/btn_back-sheet0.png",
+		"images/btn_volume-sheet0.png",
+		"images/btn_volume-sheet1.png",
+		"images/btn_normal-sheet0.png",
+		"images/btn_easy-sheet0.png",
+		"images/btn_hard-sheet0.png",
+		"images/flags-sheet0.png",
+		"images/flags-sheet1.png",
+		"images/flags-sheet2.png",
+		"media/glow.m4a",
+		"media/glow.ogg",
+		"media/happy-ticket.m4a",
+		"media/happy-ticket.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
